@@ -1,0 +1,23 @@
+C:\Documents and Settings\Chris\Local Settings\Application Data\Temporary Projects\VampireGame\bin\Release\VampireGame.exe
+C:\Documents and Settings\Chris\Local Settings\Application Data\Temporary Projects\VampireGame\bin\Release\VampireGame.pdb
+C:\Documents and Settings\Chris\Local Settings\Application Data\Temporary Projects\VampireGame\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Chris\Local Settings\Application Data\Temporary Projects\VampireGame\obj\x86\Release\VampireGame.Form1.resources
+C:\Documents and Settings\Chris\Local Settings\Application Data\Temporary Projects\VampireGame\obj\x86\Release\VampireGame.Properties.Resources.resources
+C:\Documents and Settings\Chris\Local Settings\Application Data\Temporary Projects\VampireGame\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\Chris\Local Settings\Application Data\Temporary Projects\VampireGame\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\Chris\Local Settings\Application Data\Temporary Projects\VampireGame\obj\x86\Release\VampireGame.exe
+C:\Documents and Settings\Chris\Local Settings\Application Data\Temporary Projects\VampireGame\obj\x86\Release\VampireGame.pdb
+C:\Documents and Settings\Chris\Local Settings\Application Data\Temporary Projects\VampireGame\obj\x86\Release\VampireGame.GameForm.resources
+C:\Documents and Settings\Chris\My Documents\Dropbox\Projects\VampireGame\VampireGame\bin\Release\VampireGame.exe
+C:\Documents and Settings\Chris\My Documents\Dropbox\Projects\VampireGame\VampireGame\bin\Release\VampireGame.pdb
+C:\Documents and Settings\Chris\My Documents\Dropbox\Projects\VampireGame\VampireGame\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Chris\My Documents\Dropbox\Projects\VampireGame\VampireGame\obj\x86\Release\VampireGame.Form1.resources
+C:\Documents and Settings\Chris\My Documents\Dropbox\Projects\VampireGame\VampireGame\obj\x86\Release\VampireGame.GameForm.resources
+C:\Documents and Settings\Chris\My Documents\Dropbox\Projects\VampireGame\VampireGame\obj\x86\Release\VampireGame.LocExplorer.resources
+C:\Documents and Settings\Chris\My Documents\Dropbox\Projects\VampireGame\VampireGame\obj\x86\Release\VampireGame.Properties.Resources.resources
+C:\Documents and Settings\Chris\My Documents\Dropbox\Projects\VampireGame\VampireGame\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\Chris\My Documents\Dropbox\Projects\VampireGame\VampireGame\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\Chris\My Documents\Dropbox\Projects\VampireGame\VampireGame\obj\x86\Release\VampireGame.exe
+C:\Documents and Settings\Chris\My Documents\Dropbox\Projects\VampireGame\VampireGame\obj\x86\Release\VampireGame.pdb
+C:\Documents and Settings\Chris\My Documents\Dropbox\Projects\VampireGame\VampireGame\bin\Release\Resources\Office.xml
+C:\Documents and Settings\Chris\My Documents\Dropbox\Projects\VampireGame\VampireGame\bin\Release\Resources\Tilesets\OverworldItems.png
